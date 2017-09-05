@@ -54,3 +54,7 @@ Pictures throughout the development process
 <p align="center">
   <img src = "https://i.imgur.com/lKgAG3X.jpg"/>
 </p>
+
+Future plans:
+- [ ] Replacing RF with BLE communication (to use a smartphone for a key, instead of a RF transmitter)
+
