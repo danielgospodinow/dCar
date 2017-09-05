@@ -10,7 +10,7 @@ Pictures throughout the development process
 
 ###### SQAC - Sofka Quality and Assurance Check \#2:
 <p align="center">
-  <img src = "https://i.imgur.com/iJXpdhW.jpg"/>
+  <img src = "https://i.imgur.com/FcstVYx.jpg"/>
 </p>
 
 ###### Complete transmitter and reciever \#1:
@@ -33,7 +33,7 @@ Pictures throughout the development process
   <img src = "https://i.imgur.com/2Od56Vq.jpg"/>
 </p>
 
-###### Car reassembling with the Arduino partially attached to the Central Locking System:
+###### Car reassembling with the Arduino partially attached to the car's Central Locking System:
 <p align="center">
   <img src = "https://i.imgur.com/bAiUMU1.jpg"/>
 </p>
