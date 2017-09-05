@@ -8,6 +8,9 @@ This way you don't need to grab for your original car key and press a button.
 Instead, the car will automatically detect you when you are near it and it'll unlock.
 And lock itself when you're gone respectively.
 
+Future plans:
+- [ ] Replacing RF with BLE communication (to use a smartphone for a key, instead of a RF transmitter)
+
 Pictures throughout the development process
 
 ###### SQAC - Sofka Quality and Assurance Check \#1:
@@ -54,7 +57,3 @@ Pictures throughout the development process
 <p align="center">
   <img src = "https://i.imgur.com/lKgAG3X.jpg"/>
 </p>
-
-Future plans:
-- [ ] Replacing RF with BLE communication (to use a smartphone for a key, instead of a RF transmitter)
-
