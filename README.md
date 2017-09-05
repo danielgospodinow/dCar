@@ -1,11 +1,12 @@
 # KeylessGo
 ### A KeylessGo-like system made with Arduino for my personal car
 
-The idea of this project is to upgrade my car by adding an automatic unlocking system, based on RF, with the help of an Arduino
-The system unlocks the car if the transmitter is in range (1/2 meters) and locks it if the transmitter is out of range
-This way you don't need to grab for your original car key and press a button
-Instead, the car will automatically detect you when you are near it and it'll unlock 
-And lock itself when you're gone respectively
+The idea of this project is to upgrade my car by adding an automatic unlocking system, based on RF.
+The system unlocks the car if the transmitter is in range (1/2 meters) and locks it if the transmitter is out of range.
+The transmitter is small and portable enough to be fit in whatever you want.
+This way you don't need to grab for your original car key and press a button.
+Instead, the car will automatically detect you when you are near it and it'll unlock.
+And lock itself when you're gone respectively.
 
 Pictures throughout the development process
 
