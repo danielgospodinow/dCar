@@ -10,6 +10,7 @@ And lock itself when you're gone respectively.
 ##
 Future plans:
 - [ ] Replacing RF with BLE communication (to use a smartphone for a key, instead of a RF transmitter)
+- [ ] Trying out NFC communication
 ##
 Pictures throughout the development process
 
