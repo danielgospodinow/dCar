@@ -16,8 +16,8 @@ a ton of new incredible features!
 
 #### Some of the new features are:
 * Both web and mobile apps with an account system to control the **locking mechanism**/**headlights**/**emergency lights**/**horn** of the car.
-* Emergency notifications in case of car hijacking (based on car and personal mobile phone locations + hardware signals).
-* Automatic car unlocking/locking when being in a couple of meters range of the car which is based on Bluetooth.
+* Emergency notifications in case of car hijacking, which is based on car and personal mobile phone locations + hardware signals.
+* Automatic car locking/unlocking when being in a couple of meters range of the car, which is based on Bluetooth.
 
 #### Some drawbacks:
 * A cellular plan is needed, which costs money.
