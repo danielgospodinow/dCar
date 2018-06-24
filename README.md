@@ -7,11 +7,30 @@ The transmitter is small and portable enough to be fit in whatever you want.
 This way you don't need to grab for your original car key and press a button.
 Instead, the car will automatically detect you when you are near it and it'll unlock.
 And lock itself when you're gone respectively.
+
 ##
-Future plans:
-- [ ] Replacing RF with BLE communication (to use a smartphone for a key, instead of a RF transmitter)
-- [ ] Trying out NFC communication
+##UPDATE: *The radio communication is deprecated* 
+Radio communication is being replaced with a cellular connection for a milion reasons.
+With the power of a cellular connection and with the help of Bluetooth, the same result will be accomplished and even with
+a ton of new incredible features!
+
+Some of the new features are:
+> Both web and mobile apps with an account system to control the **locking mechanism**/**headlights**/**emergency lights**/**horn** of the car.
+> Emergency notifications in case of car hijacking (based on car and personal mobile phone locations + hardware signals).
+> Automatic car unlocking/locking when being in a couple of meters range of the car which is based on Bluetooth.
+
+Some drawbacks:
+> A cellular plan is needed, which costs money.
+> The electronic circuit is expected to consume a lot of power.
+> In order for some of the features to work (**automatic Bluetooth locking**/**unlocking and hijacking notifications**) It's necessary to have both Bluetooth and GPS enabled on your mobile phone, which also consumes a fair amout of power.
 ##
+
+## Future plans:
+- [ ] Preparing the wires in the car
+- [ ] Designing, building and installing the electronic circuit
+- [ ] Developing the (frontend and backend of the) application
+##
+
 Pictures throughout the development process
 
 ###### SQAC - Sofka Quality and Assurance Check \#1:
