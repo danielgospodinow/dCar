@@ -14,7 +14,7 @@ Radio communication is being replaced with a cellular connection for a milion re
 With the power of a cellular connection and with the help of Bluetooth, the same result will be accomplished and even with
 a ton of new incredible features!
 
-##### Some of the new features are:
+#### Some of the new features are:
 * Both web and mobile apps with an account system to control the **locking mechanism**/**headlights**/**emergency lights**/**horn** of the car.
 * Emergency notifications in case of car hijacking (based on car and personal mobile phone locations + hardware signals).
 * Automatic car unlocking/locking when being in a couple of meters range of the car which is based on Bluetooth.
