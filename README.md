@@ -10,14 +10,15 @@ And lock itself when you're gone respectively.
 
 ##
 ### UPDATE: *The radio communication is deprecated* 
-Radio communication is being replaced with a cellular connection for a milion reasons.
-With the power of a cellular connection and with the help of Bluetooth, the same result will be accomplished and even with
+Radio communication is being replaced with a cellular connection for a milion reasons. The main one being that nowadays everyone has a smartphone and this is a cool opportunity to start using them as car controllers(keys), which has a lot of benefits.
+With the power of a cellular connection and with the help of Bluetooth, the same radio communication result will be accomplished and even with
 a ton of new incredible features!
 
 #### Some of the new features are:
 * Both web and mobile apps with an account system to control the **locking mechanism**/**headlights**/**emergency lights**/**horn** of the car.
 * Emergency notifications in case of car hijacking, which are based on car and personal mobile phone locations + hardware signals.
 * Automatic car locking/unlocking when being in a couple of meters range of the car, which is based on Bluetooth.
+* Titanic security.
 
 #### Some drawbacks:
 * A cellular plan is needed, which costs money.
