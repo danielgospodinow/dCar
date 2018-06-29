@@ -13,9 +13,6 @@ Radio communication is being replaced with a cellular connection for a milion re
 With the power of a cellular connection and with the help of Bluetooth, the same radio communication result will be accomplished and even with
 a ton of new incredible features!
 
-##
-<span style="font-size:larger;">**dCar**</span>
-
 #### Some of the new features are:
 * Both web and mobile apps with an account system to control the **locking mechanism**/**headlights**/**emergency lights**/**horn** of the car.
 * Emergency notifications in case of car hijacking, which are based on car and personal mobile phone locations + hardware signals.
