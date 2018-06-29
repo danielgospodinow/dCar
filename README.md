@@ -1,11 +1,5 @@
 # dCar <img src="https://i.imgur.com/DRo3pkw.png" height="50"> 
 ### A product which offers automobiles "connected car" features beyond those of the most modern and technologically advanced luxury vehicles
-### It delivers:
-### 1. dinnovativity
-### 2. dPracticality
-### 3. dSecurity
-### 4. dFunctionality
-### 5. dReliability
 
 ## Version 1.0
 The idea of this project is to upgrade my car by adding an automatic unlocking system, based on RF.
