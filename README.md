@@ -1,8 +1,6 @@
 # dCar
 ### A product which offers automobiles benefits beyond those of the most technologically advanced modern luxury vehicles
 
-#
-
 ## Version 1.0
 The idea of this project is to upgrade my car by adding an automatic unlocking system, based on RF.
 The system unlocks the car if the transmitter is in range (1/2 meters) and locks it if the transmitter is out of range.
