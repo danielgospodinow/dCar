@@ -1,6 +1,9 @@
 # dCar
 ### A product which offers automobiles benefits beyond those of the most technologically advanced modern luxury vehicles
 
+#
+
+## Version 1.0
 The idea of this project is to upgrade my car by adding an automatic unlocking system, based on RF.
 The system unlocks the car if the transmitter is in range (1/2 meters) and locks it if the transmitter is out of range.
 The transmitter is small and portable enough to be fit in whatever you want.
@@ -8,6 +11,9 @@ This way you don't need to grab for your original car key and press a button.
 Instead, the car will automatically detect you when you are near it and it'll unlock.
 And lock itself when you're gone respectively.
 
+#
+
+## Version 2.0
 ### UPDATE: *The radio communication is deprecated* 
 Radio communication is being replaced with a cellular connection for a milion reasons. The main one being that nowadays everyone has a smartphone and this is a cool opportunity to start using them as car controllers(keys), which has a lot of benefits.
 With the power of a cellular connection and with the help of Bluetooth, the same radio communication result will be accomplished and even with
@@ -17,7 +23,7 @@ a ton of new incredible features!
 * Both web and mobile apps with an account system to control the **locking mechanism**/**headlights**/**emergency lights**/**horn** of the car.
 * Emergency notifications in case of car hijacking, which are based on car and personal mobile phone locations + hardware signals.
 * Automatic car locking/unlocking when being in a couple of meters range of the car, which is based on Bluetooth.
-* Titanic security.
+* Exceptional security.
 
 #### Some drawbacks:
 * A cellular plan is needed, which costs money.
