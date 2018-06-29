@@ -30,7 +30,7 @@ a ton of new incredible features!
 ### Future plans:
 - [ ] Preparing the wires in the car
 - [ ] Designing, building and installing the new electronic circuit
-- [ ] Developing the (frontend and backend of the) application
+- [ ] Developing the application
 ##
 
 ### Pictures throughout the development process:
