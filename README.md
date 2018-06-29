@@ -1,5 +1,5 @@
-# KeylessGo
-### A KeylessGo-like system made with Arduino for my personal car
+# dCar
+### A product which offers automobiles benefits beyond those of the most technologically advanced modern luxury vehicles
 
 The idea of this project is to upgrade my car by adding an automatic unlocking system, based on RF.
 The system unlocks the car if the transmitter is in range (1/2 meters) and locks it if the transmitter is out of range.
@@ -8,11 +8,13 @@ This way you don't need to grab for your original car key and press a button.
 Instead, the car will automatically detect you when you are near it and it'll unlock.
 And lock itself when you're gone respectively.
 
-##
 ### UPDATE: *The radio communication is deprecated* 
 Radio communication is being replaced with a cellular connection for a milion reasons. The main one being that nowadays everyone has a smartphone and this is a cool opportunity to start using them as car controllers(keys), which has a lot of benefits.
 With the power of a cellular connection and with the help of Bluetooth, the same radio communication result will be accomplished and even with
 a ton of new incredible features!
+
+##
+<span style="font-size:larger;">**dCar**</span>
 
 #### Some of the new features are:
 * Both web and mobile apps with an account system to control the **locking mechanism**/**headlights**/**emergency lights**/**horn** of the car.
