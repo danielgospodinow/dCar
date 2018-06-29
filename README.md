@@ -33,7 +33,7 @@ a ton of new incredible features!
 - [ ] Developing the (frontend and backend of the) application
 ##
 
-Pictures throughout the development process
+### Pictures throughout the development process
 
 ###### SQAC - Sofka Quality and Assurance Check \#1:
 <p align="center">
