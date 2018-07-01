@@ -9,9 +9,10 @@ This way you don't need to grab for your original car key and press a button.
 Instead, the car will automatically detect you when you are near it and it'll unlock.
 And lock itself when you're gone respectively.
 
-## Version 2.0
 ### UPDATE: *The radio communication is deprecated* 
 Radio communication is being replaced with a cellular connection for a milion reasons. The main one being that nowadays everyone has a smartphone and this is a cool opportunity to start using them as car controllers(keys), which has a lot of benefits.
+
+## Version 2.0
 With the power of a cellular connection and with the help of Bluetooth, the same radio communication result will be accomplished and even with
 a ton of new incredible features!
 
